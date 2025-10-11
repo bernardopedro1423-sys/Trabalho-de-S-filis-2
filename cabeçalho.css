@@ -1,0 +1,16 @@
+.cabeçalho {
+    height: 15%;
+    border: solid #DCE1DE 2px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #49A078;
+    transition: 1s ease-in-out ;
+}
+
+.cabeçalho:hover{
+    transition: 1s ease-in-out;
+    background-color: #216869;
+    color: #DCE1DE;
+}
