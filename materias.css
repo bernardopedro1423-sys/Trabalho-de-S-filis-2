@@ -2,7 +2,7 @@
     border: solid #DCE1DE 2px;
     border-radius: 10px;
     height: auto;
-    width: 625px;
+    width: auto;
     margin: 45px;
     color: #49A078;
     transition: 1s ease-in-out;
@@ -34,20 +34,23 @@
 
 .container1{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center;
+    justify-content: center; */
+    height: auto;
 }
 
 .container {
     display: flex;
     height: auto;
+    /* align-items: center;
+    justify-content: center; */
 }
 
 .p1m2 {
     border: solid #DCE1DE 2px;
     border-radius: 10px;
     height: auto;
-    width: 700px;
+    width: auto;
     margin: 45px;
     color: #49A078;
     transition: 1s ease-in-out;
