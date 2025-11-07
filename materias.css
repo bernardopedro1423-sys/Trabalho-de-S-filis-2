@@ -20,6 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: auto;
 }
 
 .p3m {
@@ -28,7 +29,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-
+    height: auto;
 }
 
 .container1{
@@ -39,6 +40,7 @@
 
 .container {
     display: flex;
+    height: auto;
 }
 
 .p1m2 {
@@ -69,4 +71,5 @@
 .container2 {
     display: flex;
     justify-content: center;
+    height: auto;
 }
