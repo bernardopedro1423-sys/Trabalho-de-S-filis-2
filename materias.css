@@ -1,7 +1,7 @@
 .p1m {
     border: solid #DCE1DE 2px;
     border-radius: 10px;
-    height: 375px;
+    height: auto;
     width: 625px;
     margin: 45px;
     color: #49A078;
@@ -44,7 +44,7 @@
 .p1m2 {
     border: solid #DCE1DE 2px;
     border-radius: 10px;
-    height: 400px;
+    height: auto;
     width: 700px;
     margin: 45px;
     color: #49A078;
@@ -62,6 +62,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    height: auto;
+    margin-bottom: 20px;
 }
 
 .container2 {
