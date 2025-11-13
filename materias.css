@@ -34,7 +34,7 @@
 }
 
 .container1{
-flex-direction:column;
+    flex-direction: column;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -42,6 +42,7 @@ flex-direction:column;
 }
 
 .container {
+    flex-direction: column;
     display: flex;
     height: auto;
     align-items: center;
@@ -83,6 +84,7 @@ img {
 }
 
 .container2 {
+    flex-direction: column;
     display: flex;
     justify-content: center;
     align-items: center;
